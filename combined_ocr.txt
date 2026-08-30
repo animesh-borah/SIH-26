@@ -1,0 +1,72 @@
+
+===== composition.jpg =====
+1.000  COMPOSITION:
+0.999  Each 4.40 g sachet contains:
+0.934  0.52 g
+0.997  Sodium Chloride I.P
+0.999  0.30g
+1.000  Potassium Chloride I.P.
+0.769  0.58g
+0.530  ro N nling
+0.677  o  I
+0.597  nmbs gg ooe geae gght gois isish lie
+0.644  e I
+0.967  ..2.70g
+0.429  nefui o a.
+0.998  q.s.
+0.629  hogo e200dg
+1.000  Excipients
+0.581  sBfodod.
+1.000  DOSE:
+0.722  C 2 9  - 200
+0.603  mara wcora sncer fifice
+1.000  Daily dose should be equivalent to patient's
+0.525  móñalaes aggou gesencgo 200 e
+0.414  ee cagumerams eralong
+1.000  fluid requirement for maintenance and replacement
+0.620  ccata fre  cn a 200
+0.988  of losses.
+0.647  coarar maits stater firgen's nars
+0.635  ui i 200 10
+1.000  INDICATIONS:
+0.554  5  G i.
+
+===== dose.jpg =====
+0.709  u  200
+1.000  INDICATIONS:
+0.643  5 o Gg io
+1.000  For the replacement of fluid and electrolytes and
+0.475  yetetat miaate o frea
+0.554  i
+0.992  maintenance of hydration in diarrhoea, vomiting
+0.708  20
+0.489  dao co ade
+0.991  and other conditions where there is a loss of
+0.474  9
+1.000  water and electrolytes.
+0.687  1 616589
+0.995  CAUTION: Depressed renal function.
+0.999  Severe continuing diarrhoeas or other critical fluid
+0.999  losses may need supplementation with other
+0.985  Use only in recommended dilution.
+1.000  parenteral fluids along with Electral.
+0.995  Any portion of the solution prepared from the
+1.000  oral powder that remains unused for 24 hours
+1.000  after preparation should be discarded.
+1.000  FOR RECONSTITUTION:
+0.997  Use Plastic / Glass / Stainless Steel Tumbler Only.
+0.998  STORAGE:
+
+===== indications.jpg =====
+0.993  Use Plastic / Glass / Stainless Steel Tumbler Only.
+1.000  STORAGE:
+1.000  Store protected from moisture.
+1.000  Manufactured by:
+0.998  FDC
+1.000  FDC Limited
+0.985  Regd. Office : B-8, MIDC Industrial Area,
+0.987  Waluj, Aurangabad - 431 136, Maharashtra.
+0.987  ® Registered Trademark of FDC Limited
+1.000  Scan to know more
+
+===== bottom.jpg =====

@@ -1,0 +1,58 @@
+PADDLEOCR RESULTS
+============================================================
+
+0.692  PIPPPE
+0.472  E
+0.798  OMION
+0.684  I
+0.548  odi  5
+0.975  Potassium Chloride I.P. ....0.30 g
+0.999  Sodium Citrate I.P.
+0.985  0.58g
+0.491  Praen pe Roe
+0.498  au ussi selt yà ze, oo m fon
+0.953  Dextrose Anhydrous I.P.....2.70 g
+0.417  uei bno and
+1.000  Excipients
+0.994  q.s.
+0.616  vhó go  200 dg
+0.637  s8Aodod.
+1.000  DOSE:
+1.000  Daily dose should be equivalent to patient's
+0.549  monatees aou geesecjo 200 g
+0.442  eñe cmemd ea loe
+0.991  fluid requirement for maintenance and replacement
+0.611  cta fre  c  200
+0.995  of losses.
+0.581  carel mare srnte firnt nos
+0.682  200 8
+1.000  INDICATIONS:
+0.607  5  Cor awasejia.
+0.997  For the replacement of fluid and electrolytes and
+0.576  ya mtarff e  oo free
+0.989  maintenance of hydration in diarrhoea, vomiting
+0.602  200
+1.000  and other conditions where there is a loss of
+0.519  o d
+0.485  av9 ag  90   a
+1.000  water and electrolytes.
+0.547  1629 065189
+1.000  CAUTION: Depressed renal function.
+0.997  Severe continuing diarrhoeas or other critical fluid
+0.765  sethe
+0.718  se  io
+0.570  rer
+0.652  nn te
+0.671  ra ur
+0.668  terd
+1.000  FOR RECONSTITUTION:
+0.989  Use Plastic / Glass / Stainless Steel Tumbler Only.
+1.000  STORAGE:
+1.000  Store protected from moisture.
+1.000  Manufactured by:
+1.000  FDC
+0.994  FDC Limited
+0.971  Regd. Office:B-8, MIDC Industrial Area,
+0.989  Waluj, Aurangabad - 431 136, Maharashtra.
+0.988  ®Registered Trademark of FDC Limited
+1.000  Scan to know more

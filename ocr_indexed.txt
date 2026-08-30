@@ -1,0 +1,55 @@
+00  0.692  PIPPPE
+01  0.472  E
+03  0.798  OMION
+04  0.684  I
+05  0.548  odi  5
+07  0.975  Potassium Chloride I.P. ....0.30 g
+09  0.999  Sodium Citrate I.P.
+10  0.985  0.58g
+11  0.491  Praen pe Roe
+12  0.498  au ussi selt yà ze, oo m fon
+13  0.953  Dextrose Anhydrous I.P.....2.70 g
+14  0.417  uei bno and
+15  1.000  Excipients
+16  0.994  q.s.
+17  0.616  vhó go  200 dg
+18  0.637  s8Aodod.
+19  1.000  DOSE:
+22  1.000  Daily dose should be equivalent to patient's
+23  0.549  monatees aou geesecjo 200 g
+24  0.442  eñe cmemd ea loe
+25  0.991  fluid requirement for maintenance and replacement
+26  0.611  cta fre  c  200
+27  0.995  of losses.
+28  0.581  carel mare srnte firnt nos
+29  0.682  200 8
+30  1.000  INDICATIONS:
+31  0.607  5  Cor awasejia.
+32  0.997  For the replacement of fluid and electrolytes and
+33  0.576  ya mtarff e  oo free
+35  0.989  maintenance of hydration in diarrhoea, vomiting
+36  0.602  200
+37  1.000  and other conditions where there is a loss of
+38  0.519  o d
+39  0.485  av9 ag  90   a
+40  1.000  water and electrolytes.
+41  0.547  1629 065189
+42  1.000  CAUTION: Depressed renal function.
+45  0.997  Severe continuing diarrhoeas or other critical fluid
+48  0.765  sethe
+49  0.718  se  io
+50  0.570  rer
+51  0.652  nn te
+52  0.671  ra ur
+53  0.668  terd
+54  1.000  FOR RECONSTITUTION:
+55  0.989  Use Plastic / Glass / Stainless Steel Tumbler Only.
+56  1.000  STORAGE:
+57  1.000  Store protected from moisture.
+58  1.000  Manufactured by:
+59  1.000  FDC
+60  0.994  FDC Limited
+61  0.971  Regd. Office:B-8, MIDC Industrial Area,
+62  0.989  Waluj, Aurangabad - 431 136, Maharashtra.
+63  0.988  ®Registered Trademark of FDC Limited
+64  1.000  Scan to know more
