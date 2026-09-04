@@ -1,40 +1,59 @@
 ﻿import cv2
 
-images = [
-    "..\image1.jpeg",
-    "..\image2.jpeg",
-    "..\image3.jpeg",
-    "..\image4.jpeg",
-    "..\image5.jpeg"
-]
 
-detector = cv2.barcode.BarcodeDetector()
+def scan_barcode(image):
+    """
+    Detect and decode a barcode from an OpenCV image.
 
-print("=" * 55)
-print("BARCODE SCANNER RESULTS")
-print("=" * 55)
+    Parameters:
+        image: OpenCV image (numpy array)
 
-for image_path in images:
+    Returns:
+        dict containing detection status and decoded data
+    """
+
+    detector = cv2.barcode.BarcodeDetector()
+
+    data, bbox, _ = detector.detectAndDecode(image)
+
+    if data:
+        return {
+            "detected": True,
+            "data": data,
+            "bbox": bbox.tolist() if bbox is not None else None,
+            "status": "SUCCESS"
+        }
+
+    elif bbox is not None:
+        return {
+            "detected": True,
+            "data": None,
+            "bbox": bbox.tolist(),
+            "status": "DETECTED_NOT_DECODED"
+        }
+
+    return {
+        "detected": False,
+        "data": None,
+        "bbox": None,
+        "status": "NOT_DETECTED"
+    }
+
+
+def scan_barcode_from_file(image_path):
+    """
+    Scan a barcode from an image file path.
+    """
+
     image = cv2.imread(image_path)
 
     if image is None:
-        print(f"\nERROR: Could not open {image_path}")
-        continue
+        return {
+            "detected": False,
+            "data": None,
+            "bbox": None,
+            "status": "ERROR",
+            "error": f"Could not open image: {image_path}"
+        }
 
-    decoded_data, bbox, _ = detector.detectAndDecode(image)
-
-    print(f"\nImage: {image_path}")
-
-    if decoded_data:
-        print("Status: SUCCESS")
-        print(f"Barcode Data: {decoded_data}")
-
-    elif bbox is not None:
-        print("Status: BARCODE DETECTED BUT NOT DECODED")
-
-    else:
-        print("Status: NO BARCODE DETECTED")
-
-print("\n" + "=" * 55)
-print("SCAN COMPLETE")
-print("=" * 55)
+    return scan_barcode(image)
